@@ -1,2 +1,0 @@
-- [ ] Check one
-- [ ] Check two
